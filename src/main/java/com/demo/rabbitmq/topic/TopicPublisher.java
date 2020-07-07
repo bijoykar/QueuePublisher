@@ -1,4 +1,4 @@
-package com.demo.rabbitmq.topic.fanout;
+package com.demo.rabbitmq.topic;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
