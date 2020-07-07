@@ -1,0 +1,2 @@
+# QueuePublisher
+Rabbitmq learinging handson
