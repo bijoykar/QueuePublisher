@@ -1,2 +1,2 @@
 # QueuePublisher
-Rabbitmq learinging handson
+Rabbitmq learning handson
